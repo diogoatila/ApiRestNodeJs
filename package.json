@@ -1,0 +1,20 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "api rest com node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "com",
+    "node",
+    "js"
+  ],
+  "author": "Diogo Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
